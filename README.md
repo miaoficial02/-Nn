@@ -25,3 +25,18 @@ Este proyecto está bajo la **Licencia MIT**. Puedes usar, modificar y distribui
 * **Ado:** [Ado](https://github.com/Ado-rgb)
 
 Creador de **Michi-WaBot**
+
+
+### Instalación
+
+#### Linux / Termux / Ubuntu
+
+```bash
+apt install git -y
+apt install nodejs -y
+git clone https://github.com/miaoficial02/Base_WaBot.git
+cd Base_WaBot
+npm install
+node index.js
+
+
