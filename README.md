@@ -34,9 +34,9 @@ Creador de **Michi-WaBot**
 ```bash
 apt install git -y
 apt install nodejs -y
-git clone https://github.com/miaoficial02/Base_WaBot.git
-cd Base_WaBot
+git clone https://github.com/miaoficial02/MaycolPlus.git
+cd MaycolPlus
 npm install
-node index.js
+npm start
 
 
