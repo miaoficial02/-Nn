@@ -32,8 +32,9 @@ Creador de **Michi-WaBot**
 #### Linux / Termux / Ubuntu
 
 ```bash
-apt install git -y
-apt install nodejs -y
+termux-setup-storage
+apt update && apt upgrade -y
+pkg install -y git nodejs ffmpeg imagemagick
 git clone https://github.com/miaoficial02/MaycolPlus.git
 cd MaycolPlus
 npm install
